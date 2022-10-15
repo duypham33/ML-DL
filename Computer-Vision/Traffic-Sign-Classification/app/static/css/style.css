@@ -1,0 +1,27 @@
+
+.drag-area.active{
+    border: 2px solid #fff;
+}
+
+.drag-area img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.label-result{
+    margin-top: 0;
+    font-size: 30px;
+    font-weight: 10px;
+    margin-bottom: 20px;
+    text-shadow: 5px 5px 15px black, 15px 15px 15px #6f06b4, 5px 5px 10px darkblue;
+
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(#ebcbf2, white);
+}
+
+
+
