@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+
+    <title>Image Retrieval</title>
+
+    <link rel="icon" href="../static/images/icon.png" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="../static/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../static/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="../static/css/fullpage.min.css">
+    <link rel="stylesheet" type="text/css" href="../static/css/owl.carousel.css">
+    <link rel="stylesheet" href="../static/css/animate.css">
+    <link rel="stylesheet" href="../static/css/templatemo-style.css">
+    <link rel="stylesheet" href="../static/css/responsive.css">
+</head>
+    
+<body>
+    <div id="video">        
+        {% include 'includes/header.html' %}
+        
+        <video autoplay muted loop id="myVideo">
+            <source src="../static/images/video-bg.mp4" type="video/mp4">
+        </video>
+
+        
+        <div id="fullpage" class="fullpage-default">
+            {% if not result %}
+            <div class="section animated-row" data-section="slide01">
+                <div class="section-inner">
+                    <div class="welcome-box">
+                        <span class="welcome-first animate" data-animate="fadeInUp">Hello, welcome to</span>
+                        <h1 class="welcome-title animate" data-animate="fadeInUp">Image Retrieval App</h1>
+                        
+                        <div class = "main-app">
+                            
+                        </div>
+                            
+                                        
+                        <div class="scroll-down next-section animate data-animate="fadeInUp""><img src="../static/images/mouse-scroll.png" alt=""><span>Scroll Down</span></div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+
+            {% include 'main.html' %}
+        </div>
+
+        <div id="social-icons">
+            <div class="text-right">
+                <ul class="social-icons">
+                    <li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="#" title="Instagram"><i class="fa fa-behance"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>  
+
+    <script src="../static/js/jquery.js"></script>
+    <script src="../static/js/bootstrap.min.js"></script>
+    <script src="../static/js/fullpage.min.js"></script>
+    <script src="../static/js/scrolloverflow.js"></script>
+    <script src="../static/js/owl.carousel.min.js"></script>
+    <script src="../static/js/jquery.inview.min.js"></script>
+    <script src="../static/js/form.js"></script>
+    <script src="../static/js/custom.js"></script>
+</body>
+</html>
