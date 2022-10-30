@@ -18,12 +18,13 @@ Use Cosine Similarity compute the similarity scores of the feature extractions o
 
 ---
 # Some Examples:
-![image](https://github.com/duypham33/ML-DL/blob/main/Computer-Vision/Image-Retrieval/app/static/images/Screenshot%202022-10-28%2020.36.44.png)
-![image](https://github.com/duypham33/ML-DL/blob/main/Computer-Vision/Image-Retrieval/app/static/images/Screenshot%202022-10-28%2020.39.07.png)
-![image](https://github.com/duypham33/ML-DL/blob/main/Computer-Vision/Image-Retrieval/app/static/images/Screenshot%202022-10-28%2020.37.31.png)
-![image](https://github.com/duypham33/ML-DL/blob/main/Computer-Vision/Image-Retrieval/app/static/images/Screenshot%202022-10-28%2020.38.26.png)
-![image](https://github.com/duypham33/ML-DL/blob/main/Computer-Vision/Image-Retrieval/app/static/images/Screenshot%202022-10-28%2020.38.42.png)
-![image](https://github.com/duypham33/ML-DL/blob/main/Computer-Vision/Image-Retrieval/app/static/images/Screenshot%202022-10-28%2020.38.55.png)
+![image](https://github.com/duypham33/ML-DL/blob/main/Computer-Vision/Similarity%20Network/Image-Retrieval/app/static/images/Screenshot%202022-10-28%2020.36.44.png)
+![image](https://github.com/duypham33/ML-DL/blob/main/Computer-Vision/Similarity%20Network/Image-Retrieval/app/static/images/Screenshot%202022-10-28%2020.39.07.png)
+![image](https://github.com/duypham33/ML-DL/blob/main/Computer-Vision/Similarity%20Network/Image-Retrieval/app/static/images/Screenshot%202022-10-28%2020.37.31.png)
+![image](https://github.com/duypham33/ML-DL/blob/main/Computer-Vision/Similarity%20Network/Image-Retrieval/app/static/images/Screenshot%202022-10-28%2020.38.26.png)
+![image](https://github.com/duypham33/ML-DL/blob/main/Computer-Vision/Similarity%20Network/Image-Retrieval/app/static/images/Screenshot%202022-10-28%2020.38.42.png)
+![image](https://github.com/duypham33/ML-DL/blob/main/Computer-Vision/Similarity%20Network/Image-Retrieval/app/static/images/Screenshot%202022-10-28%2020.38.55.png)
+
 
 
 
